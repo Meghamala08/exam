@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	if(name=="abc" && pwd="abc)
-	{
-		<h2>Welcome!!</h2>
-	}
+	<h2>Welcome!!</h2>
 <body>
 </html>
